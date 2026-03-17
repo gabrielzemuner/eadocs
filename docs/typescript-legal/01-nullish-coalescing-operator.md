@@ -1,7 +1,4 @@
----
-title: Nullish Coalescing Operator
-description: Valor padrão apenas para null/undefined (sem confundir com 0, "", false).
----
+# Nullish Coalescing Operator
 
 O **Nullish Coalescing Operator (`??`)** serve para definir um **valor padrão** quando uma variável é `null` ou `undefined`.
 

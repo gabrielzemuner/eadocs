@@ -6,6 +6,16 @@
   max-width: 100% !important;
 } */
 
+.VPDoc.has-aside .content-container {
+  max-width: 100% !important;
+}
+
 .aside-container {
-  width: auto !important;
+  width: 268px !important;
+}
+
+.outline-link {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
 }

@@ -29,7 +29,7 @@ export default defineConfig({
       useTitleFromFileHeading: true,
       useFolderTitleFromIndexFile: true,
       sortMenusByFrontmatterOrder: true,
-      collapsed: false,
+      collapsed: true,
     }),
 
     socialLinks: [
