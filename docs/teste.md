@@ -57,4 +57,5 @@ Use `??` quando você quer fallback **somente** para `null/undefined`.
 :::
 
 
-![imagem](./images/teste-img-1.png)
+
+![imagem](https://raw.githubusercontent.com/gabrielzemuner/eadocs/refs/heads/main/docs/images/teste-img-4.png)
