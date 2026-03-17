@@ -1,0 +1,11 @@
+/* :root {
+  --vp-layout-max-width: 100%;
+}
+
+.VPDoc .container {
+  max-width: 100% !important;
+} */
+
+.aside-container {
+  width: auto !important;
+}
