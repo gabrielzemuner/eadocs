@@ -1,1 +1,1 @@
-# Typescript-legal
+# Typescript Legal
