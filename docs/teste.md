@@ -55,3 +55,6 @@ console.log("Sua idade é: " + (idade ?? "Não informado")); // => 0
 :::tip
 Use `??` quando você quer fallback **somente** para `null/undefined`.
 :::
+
+
+![imagem](./images/teste-img-1.png)
